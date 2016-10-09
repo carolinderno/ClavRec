@@ -1,4 +1,4 @@
-# Analysis-of-claves-recordings
+#Comparison of claves' recordings
 
 The aim of this analysis is to compare two short musical rhythms played with claves: 
 One given rhythm vs one reproduced rhythm.
