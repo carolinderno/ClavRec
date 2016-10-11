@@ -2,7 +2,7 @@
 #n is the main frequence of the keynote of claves
 import numpy as np
 
-def gleitmit(x,rate,n):
+def movav(x,rate,n):
     if (n % 2) ==0:    
         y=np.zeros(len(x)-n)
         for i in range(n/2,len(x)-n/2):
