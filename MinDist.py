@@ -1,6 +1,7 @@
-#Minimal distance between two rhythms
-#function f=|x-a*y-b|, whereas x and y are the correspondant vectors of two rhythms
-#look for minimum of its partial derivations
+#Minimal distance between two vectors
+#function f=|x-a*y-b|, 
+#whereas x and y are the vectors of the time values of the local maxima (= onsets) of two rhythms
+#minimize f
 
 import numpy as np
 import itertools
