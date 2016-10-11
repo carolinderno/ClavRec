@@ -1,5 +1,6 @@
 #Read a wav-file
 from scipy.io import wavfile
+import numpy as np
 
 def read(filename):
     rate,x=wavfile.read(filename) 
