@@ -41,7 +41,6 @@ def mindist(t1,m1,t2,m2):
         for j in range(diff):
             t2new=np.insert(t2,comb[pos][j],t2[comb[pos][j]]); 
             m2new=np.insert(m2,comb[pos][j],m2[comb[pos][j]])
-        print 'reproduction has less notes than the given rhythm'
     if len(t1)<len(t2):
         ysum=t1[0:len(t2)].sum()
         ysumsq=np.power(t2[0:len(t2)],2).sum()
@@ -66,5 +65,4 @@ def mindist(t1,m1,t2,m2):
         for j in range(diff):
             t1new=np.insert(t1,comb[pos][j],t1[comb[pos][j]]); 
             m1new=np.insert(m1,comb[pos][j],m1[comb[pos][j]])
-        print 'reproduction has more notes than the given rhythm'
     return t1new,m1new,t2new,m2new,a,b,dist2 
