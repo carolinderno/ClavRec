@@ -17,3 +17,8 @@ Some restrictions are made:
 9. Limitation of the sample: only students of Catholic University of Eichstätt-Ingolstadt
 
 Without some of these restrictions the code might not work. 
+
+For further information concerning the maths behind these algorithms (in German): 
+Wirsching, Günther ; Straub, Carolin: Extraktion und Vergleich musikalischer Rhythmen aus Aufnahmen von Klanghölzern. 
+In: Jokisch, Oliver (Hrsg.): Elektronische Sprachsignalverarbeitung 2016 : Tagungsband der 27. Konferenz; Leipzig, 2. - 4. März 2016. - Dresden : TUDpress, Verlag der Wissenschaften, 2016. - S. 263-270. - (Studientexte zur Sprachkommunikation ; 81) 
+ISBN 978-3-95908-040-8
