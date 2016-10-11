@@ -18,6 +18,8 @@ Some restrictions are made:
 
 Without some of these restrictions the code might not work. 
 
+The steps are: 1. Read 2. Smooth 3. RedDim 4. MinDist.
+
 For further information concerning the maths behind these algorithms (in German): 
 Wirsching, Günther ; Straub, Carolin: Extraktion und Vergleich musikalischer Rhythmen aus Aufnahmen von Klanghölzern. 
 In: Jokisch, Oliver (Hrsg.): Elektronische Sprachsignalverarbeitung 2016 : Tagungsband der 27. Konferenz; Leipzig, 2. - 4. März 2016. - Dresden : TUDpress, Verlag der Wissenschaften, 2016. - S. 263-270. - (Studientexte zur Sprachkommunikation ; 81) 
